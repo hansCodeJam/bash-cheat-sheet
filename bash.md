@@ -26,4 +26,10 @@
 * Tips and Tricks:
     * You can rename a file by having its destination be a new filename.
 
+---
 
+### `pwd`
+* Usage: `pwd`
+* What it does: prints working directory
+
+---
