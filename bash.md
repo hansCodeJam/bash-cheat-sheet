@@ -1,10 +1,10 @@
-# Hans's Bash Cheat Sheet 
+            # Hans's Bash Cheat Sheet 
 
 ### `ls` 
 * list files 
 * Usage : `ls [flags] [directory name]`
 * What it does: lists all files and directories in the directory
-* Usefull flags:
+* Useful flags:
     * Useful flags:
         * `-a:` lists ALL files
 
@@ -32,4 +32,17 @@
 * Usage: `pwd`
 * What it does: prints working directory
 
+
 ---
+
+### `mkdir`
+
+* Usage: `mkdir [directory name(s)]`
+* What it does: makes a directory 
+* Useful flags: 
+  * '-p': Makes parent directories given a path
+
+---
+
+
+
